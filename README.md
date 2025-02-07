@@ -1,0 +1,2 @@
+# Augmenting-Knowledge-Management-with-Immersive-Technologies
+Exploring Transformative Use Cases for AR/VR - This study analyzes 20 case studies from global companies using AR/VR to enhance employee training. It covers the full implementation lifecycle, addressing challenges and trends, from companies like Boeing, Volvo, and Walmart, highlighting AR/VR's potential to transform training and drive innovation.
